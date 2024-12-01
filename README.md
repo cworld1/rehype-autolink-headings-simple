@@ -1,6 +1,6 @@
 # rehype-autolink-headings simple
 
-[![bundlejs](https://img.shields.io/bundlejs/size/rehype-autolink-headings)](https://bundlejs.com/?q=rehype-autolink-headings-simple)
+[![bundlejs](https://img.shields.io/bundlejs/size/rehype-autolink-headings-simple)](https://bundlejs.com/?q=rehype-autolink-headings-simple)
 
 A simple version of [rehype-autolink-headings](https://github.com/rehypejs/rehype-autolink-headings).
 
